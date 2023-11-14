@@ -1,0 +1,8 @@
+name: TeamsPlugin
+version: '${project.version}'
+main: me.absolute.teamsplugin.TeamsPlugin
+api-version: '1.20'
+commands:
+  tms:
+    description: Взаимодействие с командами игроков.
+    usage:
